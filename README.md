@@ -14,4 +14,4 @@ You can get the compiled exe at www.evanvaughan.com/magicjack.aspx
 
 Please note that this Github version is a "vanilla" version. Unlike the version available for download on my site, this version does not have a donate button, and does not automatically check for updates when run.
 
-Feel free to improve, distribute, and use this code without any restrictions. For questions, or just to drop me a line letting my know that you fixed or improved something: evan@evanvaughan.com
+Feel free to improve, distribute, and use this code without any restrictions. For questions, or just to drop me a line letting me know that you fixed or improved something: evan@evanvaughan.com
